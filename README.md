@@ -5,4 +5,4 @@ FEAUTURES:
 *Discord Tokens*,
 *Restart PC*,
 *Webhook junk*,
-*Network Info*,
+*Network Info*
